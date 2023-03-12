@@ -4,11 +4,6 @@
      Projeto Labex - React
 </h1>
 
-<h4 align="left">
-    Projeto desenvolvido por mim como parte da fixação de conteúdo de ReactJS do curso de Web Full Stack da Labenu.
-</h4>
-
----
 
 ##  🕵Sobre
 
