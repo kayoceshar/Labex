@@ -16,7 +16,7 @@ Este projeto consiste em um site de viagens interplanetárias, utilizando de uma
 
 ---
 
-##  👩🏾Autor
+## 🏾Autor
 
 - Kayo Céshar Rêgo Dias dos Santos
 
